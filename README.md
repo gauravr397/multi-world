@@ -8,3 +8,6 @@ So far, there are following languages:
 
 * Java
 * Kotlin
+* C
+* C++
+* Python
