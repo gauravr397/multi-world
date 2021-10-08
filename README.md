@@ -12,3 +12,4 @@ So far, there are following languages:
 * C++
 * Python
 * Bash
+* Batch (Windows CMD)
