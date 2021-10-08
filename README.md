@@ -11,4 +11,5 @@ So far, there are following languages:
 * C
 * C++
 * Python
+* Bash
 * Batch (Windows CMD)
